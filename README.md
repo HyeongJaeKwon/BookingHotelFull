@@ -4,4 +4,4 @@
 ..* Admin page provides Create, Read, Update, Delete (CRUD) for authorized user account to manage users/rooms/hotel. 
 ..* Includes various error handlings
 <h3>Videos</h3>
-![login](https://player.vimeo.com/video/920336659)
+[Watch the video](https://player.vimeo.com/video/920336659)
