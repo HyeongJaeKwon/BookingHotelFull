@@ -1,5 +1,5 @@
 ## MongoDB, ExpressJS, React, NodeJS (MERN) for hotel booking website, providing basic CRUD features for Hotel, Room, User models
-- User Authentication process using Jsonwebtoken (**JWT**), **Cookies**, and **local storage**. 
+- User Authentication process using Jsonwebtoken (**JWT**), **Cookies**, **bcrypt**, and **local storage**. 
 - Search through hotel lists using path/query parameters. 
 - Admin page provides Create, Read, Update, Delete (**CRUD**) for authorized user account to manage users/rooms/hotel. 
 - Includes various error handlings.
