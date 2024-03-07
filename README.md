@@ -2,7 +2,7 @@
 - User Authentication process using Jsonwebtoken (**JWT**), **Cookies**, **bcrypt**, and **local storage**. 
 - Search through hotel lists using path/query parameters. 
 - Admin page provides Create, Read, Update, Delete (**CRUD**) for authorized user account to manage users/rooms/hotel. 
-- Includes various error handlings.
+- Includes basic **REST API** structure and various error handlings.
 ## Booking Hotel Pages
 **Login**
 
